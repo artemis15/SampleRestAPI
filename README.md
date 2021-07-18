@@ -16,7 +16,7 @@ This is a very simple rest api for testing. It can be run on standalone machine 
 
 ## GET /
 
-````curl -i http://localhost:3000
+```curl -i http://localhost:3000
 HTTP/1.1 200 OK
 X-Powered-By: Express
 Content-Type: application/json; charset=utf-8
@@ -26,5 +26,5 @@ Date: Sun, 18 Jul 2021 09:09:01 GMT
 Connection: keep-alive
 Keep-Alive: timeout=5
 
-{"data":"Hello World!!"}```
-````
+{"data":"Hello World!!"}
+```
