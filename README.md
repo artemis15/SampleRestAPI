@@ -9,8 +9,8 @@ This is a very simple rest api for testing. It can be run on standalone machine 
 # Steps to run:
 
 1. Go to downloaded folder
-2. Run **npm i** to install all dependencies
-3. Run **npm run start**
+2. Run `npm i` to install all dependencies
+3. Run `npm run start`
 
 # Test
 
