@@ -1,0 +1,27 @@
+{
+  "name": "samplerestapi",
+  "version": "1.0.0",
+  "description": "A Sample Rest API for testing",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artemis15/SampleRestAPI.git"
+  },
+  "keywords": [
+    "Sample",
+    "rest",
+    "api"
+  ],
+  "author": "Akash Rajput",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artemis15/SampleRestAPI/issues"
+  },
+  "homepage": "https://github.com/artemis15/SampleRestAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
